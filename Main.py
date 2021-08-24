@@ -5,6 +5,11 @@ def loop():
 
 # Comentario para ver que quede en cabecera
 
+#Agregaré calculo para que quede en la versión final
+def suma(valor1, valor2):
+    print(valor1 + valor2)
+
 
 if __name__ == '__main__':
     loop()
+    suma(5, 8)
