@@ -1,2 +1,2 @@
-# Curso-de-Git-Platzi-
+# Curso de Git Platzi
 Práctica del curso
